@@ -1,0 +1,4 @@
+﻿  高精度算法.cpp
+D:\OPENCVTEST\高精度算法\高精度算法.cpp(24,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OPENCVTEST\高精度算法\高精度算法.cpp(25,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  高精度算法.vcxproj -> D:\OPENCVTEST\高精度算法\x64\Debug\高精度算法.exe
